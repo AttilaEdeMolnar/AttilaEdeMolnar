@@ -47,7 +47,12 @@ I am an entry-level Full-stack developer and interested in .NET and C# programmi
 
 
 ## 👋&nbsp; Contact: 
-Email: attila@molnarmail.hu
+
+I'm eager to collaborate and contribute to exciting projects. If you're interested in working together or have any questions, feel free to reach out to me:
+
+- Email: attila@molnarmail.hu
+
+Let's connect and create something awesome together! 💪
 
 
 <h1 align="center">Check out my Repositories! 😎</h1>
